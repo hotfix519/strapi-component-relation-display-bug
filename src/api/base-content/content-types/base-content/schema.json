@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "base_contents",
+  "info": {
+    "singularName": "base-content",
+    "pluralName": "base-contents",
+    "displayName": "Base Content"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}

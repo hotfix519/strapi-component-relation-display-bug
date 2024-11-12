@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "relation_lists",
+  "info": {
+    "singularName": "relation-list",
+    "pluralName": "relation-lists",
+    "displayName": "Relation List"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dynamicZone": {
+      "type": "dynamiczone",
+      "components": [
+        "components.content-component"
+      ]
+    }
+  }
+}

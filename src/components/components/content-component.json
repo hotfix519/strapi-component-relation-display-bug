@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_content_components",
+  "info": {
+    "displayName": "ContentComponent",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "base_content": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::base-content.base-content"
+    }
+  }
+}
